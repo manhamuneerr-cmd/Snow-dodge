@@ -20,7 +20,7 @@ SNOW_HEIGHT = 25
 snow_velocity = 5
 
 FONT = pygame.font.SysFont("Times New Roman", 32, italic=True)#font object,we can use this to RENDER our text on screen
-SNOW_FLAKE = pygame.image.load("snowflake.png")
+SNOW_FLAKE = pygame.image.load("snowflake.snowglobe.PNG")
 SNOW_FLAKE = pygame.transform.scale(SNOW_FLAKE,(SNOW_WIDTH,SNOW_HEIGHT))
 
 
