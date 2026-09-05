@@ -1,7 +1,7 @@
 import time
 import random
 import asyncio
-import pygame
+import pygame 
 
 pygame.init()
 hit = False
